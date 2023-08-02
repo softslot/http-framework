@@ -1,0 +1,9 @@
+{
+    "name": "softslot/http-framework",
+    "description": "Source code for our workshop",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+      "php": "^8.0"
+    }
+}
